@@ -1,0 +1,7 @@
+C:\Users\Christopher\Desktop\ElevenFiftyProjects\DotNetProjects\SD76Lessons\BlackjackApp\bin\Debug\BlackjackApp.exe.config
+C:\Users\Christopher\Desktop\ElevenFiftyProjects\DotNetProjects\SD76Lessons\BlackjackApp\bin\Debug\BlackjackApp.exe
+C:\Users\Christopher\Desktop\ElevenFiftyProjects\DotNetProjects\SD76Lessons\BlackjackApp\bin\Debug\BlackjackApp.pdb
+C:\Users\Christopher\Desktop\ElevenFiftyProjects\DotNetProjects\SD76Lessons\BlackjackApp\obj\Debug\BlackjackApp.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\ElevenFiftyProjects\DotNetProjects\SD76Lessons\BlackjackApp\obj\Debug\BlackjackApp.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Desktop\ElevenFiftyProjects\DotNetProjects\SD76Lessons\BlackjackApp\obj\Debug\BlackjackApp.exe
+C:\Users\Christopher\Desktop\ElevenFiftyProjects\DotNetProjects\SD76Lessons\BlackjackApp\obj\Debug\BlackjackApp.pdb
